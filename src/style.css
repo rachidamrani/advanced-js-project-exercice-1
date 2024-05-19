@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: auto;
+}
+
+#error {
+  display: none;
+  text-align: center;
+}
+
+#root {
+  max-width: 300px;
+}
